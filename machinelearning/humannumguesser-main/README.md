@@ -1,6 +1,6 @@
 # The Human Guesser Modified
 Below is the original text of the readme.md file and is pending modification.
-Inspired from [this]("https://www.youtube.com/watch?v=cZe-WCyCflM") YouTube video.
+Inspired from [this](https://www.youtube.com/watch?v=cZe-WCyCflM) YouTube video.
 
 ## winrate
 
