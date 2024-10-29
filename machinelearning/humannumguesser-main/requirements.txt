@@ -1,0 +1,5 @@
+keyboard
+pygame
+numpy
+scikit-learn
+xgboost
